@@ -1,0 +1,19 @@
+2025-02-06 19:23:33,576 - bot - [34mINFO[0m - > Start UserBot
+2025-02-06 19:24:02,788 - bot - [34mINFO[0m - > Stop UserBot
+2025-02-06 19:24:03,840 - bot - [34mINFO[0m - > Start UserBot
+2025-02-06 19:24:05,715 - bot - [34mINFO[0m - > Stop UserBot
+2025-02-06 19:36:59,237 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 19:37:10,393 - my_logger.logger - [34mINFO[0m - User ID: 6820351323 using id_handler
+2025-02-06 19:45:41,099 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 19:45:42,243 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 19:45:51,869 - my_logger.logger - [34mINFO[0m - Send message to 5825382314 by 6820351323.
+2025-02-06 19:45:51,869 - my_logger.logger - [34mINFO[0m - Sending by 6820351323 complete.
+2025-02-06 20:00:26,517 - my_logger.logger - [34mINFO[0m - User ID: 6820351323 using id_handler
+2025-02-06 20:00:41,069 - my_logger.logger - [34mINFO[0m - User ID: 6483541991 using id_handler
+2025-02-06 20:10:05,552 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 20:10:06,558 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 20:10:16,247 - my_logger.logger - [34mINFO[0m - 0: Send message to 5825382314 by 6820351323.
+2025-02-06 20:10:16,247 - my_logger.logger - [34mINFO[0m - Sending by 6820351323 complete.
+2025-02-06 20:10:23,005 - my_logger.logger - [34mINFO[0m - 0: Send message to 5825382314 by 6820351323.
+2025-02-06 20:10:23,006 - my_logger.logger - [34mINFO[0m - Sending by 6820351323 complete.
+2025-02-06 20:10:44,201 - my_logger.logger - [34mINFO[0m - > Stop UserBot

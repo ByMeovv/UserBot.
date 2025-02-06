@@ -1,6 +1,8 @@
 from telethon import events
 from telethon.tl.types import PeerUser
 
+from my_logger.logger import log
+
 
 class Tagger:
     def __init__(self, client):
@@ -27,5 +29,9 @@ class Tagger:
                     f'<b>Сообщество TeeFusion поступило новое обращение.</b> \n\n<i>Text:</i>\n<pre><code class="language-FeedBack">{msg.message.text.replace("/call_staff ", "")}</code></pre>\n<i>Telegram ID:</i> <a href=tg://openmessage?user_id={msg.message.sender_id}>{msg.message.sender_id}</a>',
                     parse_mode='html'
                 )
+                i = 0
+                log.info(f"{i}: Send message to {chat_id} by {msg.sender_id}.")
+                i += 1
 
+            log.info(f"Sending by {msg.sender_id} complete.")
             await msg.reply(f"Оповестил всех модераторов.")

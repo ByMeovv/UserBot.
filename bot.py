@@ -1,4 +1,8 @@
 from telethon import TelegramClient
+from my_logger.logger import log
+
+import logging
+
 
 class TelethonBot:
     def __init__(self):
@@ -10,4 +14,6 @@ class TelethonBot:
 
     def start(self):
         self.client.start(self.PHONE)
+        log.info("> Start UserBot")
         self.client.run_until_disconnected()
+        log.info("> Stop UserBot")
