@@ -2,6 +2,7 @@ import logging
 import sys
 import os
 
+
 class CustomFormatter(logging.Formatter):
     def format(self, record):
         level = record.levelname.lower()

@@ -17,3 +17,133 @@
 2025-02-06 20:10:23,005 - my_logger.logger - [34mINFO[0m - 0: Send message to 5825382314 by 6820351323.
 2025-02-06 20:10:23,006 - my_logger.logger - [34mINFO[0m - Sending by 6820351323 complete.
 2025-02-06 20:10:44,201 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 20:35:41,980 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:17:20,846 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:17:22,080 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:25:09,459 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:25:11,728 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:29:25,727 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:32:46,641 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:34:04,998 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:34:08,299 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:38:01,626 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:38:02,939 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:38:15,010 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:38:16,214 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:38:32,566 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:38:34,803 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:39:49,848 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:39:51,247 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:45:02,409 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:46:37,594 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:48:34,655 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:49:54,567 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:50:14,022 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:50:22,967 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:50:52,675 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:50:59,710 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:51:45,491 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:51:46,690 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:52:38,721 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:52:41,172 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:52:54,047 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:52:55,154 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:55:12,210 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 21:55:13,486 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 21:55:26,502 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-06 21:55:37,150 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-06 21:56:57,585 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-06 21:57:57,490 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 22:05:10,312 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 22:05:46,297 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 22:06:03,211 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 22:07:28,675 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 22:07:29,851 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 22:08:25,415 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 22:08:28,877 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 22:08:45,519 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-06 22:10:20,387 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-06 22:10:44,442 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-06 22:11:08,947 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-06 22:11:09,016 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-06 22:11:09,319 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-06 22:11:48,139 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-06 22:11:48,546 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-06 22:12:15,772 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-06 22:12:39,338 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-06 22:12:40,113 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 08:43:23,578 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 08:43:31,704 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:43:40,129 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:43:41,626 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:43:42,964 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:44:53,270 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 08:44:54,345 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 08:45:34,288 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 08:45:42,498 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 08:46:07,792 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 08:46:09,248 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 08:47:31,864 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 08:47:33,006 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 08:51:38,318 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 08:51:39,433 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 08:51:43,465 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:51:55,823 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:52:00,328 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:52:06,679 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:52:15,269 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 08:55:10,056 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 08:56:33,290 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 08:56:34,436 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 08:56:43,850 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 08:56:44,910 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 08:56:51,147 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:56:56,574 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:57:00,466 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:57:15,180 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:57:15,401 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:57:22,891 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 08:57:31,343 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 09:00:17,552 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 09:00:48,711 - my_logger.logger - [34mDEBUG[0m - Time: 27.333597898483276
+2025-02-07 09:00:50,049 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:01:30,678 - my_logger.logger - [34mDEBUG[0m - Time: 26.189568042755127
+2025-02-07 09:01:32,648 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:02:39,420 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 09:02:40,621 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 09:02:51,393 - my_logger.logger - [34mDEBUG[0m - Time: 7.8820579051971436
+2025-02-07 09:02:53,032 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:03:01,855 - my_logger.logger - [34mDEBUG[0m - Time: 2.5722556114196777
+2025-02-07 09:03:03,990 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:03:13,691 - my_logger.logger - [34mDEBUG[0m - Time: 5.913565635681152
+2025-02-07 09:03:26,118 - my_logger.logger - [34mDEBUG[0m - Time: 9.822612285614014
+2025-02-07 09:03:47,636 - my_logger.logger - [34mDEBUG[0m - Time: 3.0733275413513184
+2025-02-07 09:03:49,661 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:13:11,625 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 09:13:12,366 - my_logger.logger - [34mDEBUG[0m - Time: 3.170967102050781e-05
+2025-02-07 09:13:12,715 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 09:13:35,292 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:13:56,897 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:14:45,604 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:15:02,843 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:24:02,572 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 09:24:04,208 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 09:24:49,928 - my_logger.logger - [34mDEBUG[0m - Time: 12.20579218864441
+2025-02-07 09:24:51,140 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:24:59,341 - my_logger.logger - [34mDEBUG[0m - Time: 1.0348494052886963
+2025-02-07 09:24:59,943 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:25:03,560 - my_logger.logger - [34mDEBUG[0m - Time: 1.1476185321807861
+2025-02-07 09:25:03,897 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:25:07,722 - my_logger.logger - [34mDEBUG[0m - Time: 2.0382800102233887
+2025-02-07 09:25:08,237 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:25:18,501 - my_logger.logger - [34mDEBUG[0m - Time: 7.905317783355713
+2025-02-07 09:25:20,014 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:25:32,651 - my_logger.logger - [34mDEBUG[0m - Time: 10.991422891616821
+2025-02-07 09:25:34,042 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:25:37,194 - my_logger.logger - [34mDEBUG[0m - Time: 0.8987481594085693
+2025-02-07 09:25:37,502 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:27:14,423 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 09:27:15,479 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 09:27:17,879 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:27:19,867 - my_logger.logger - [34mDEBUG[0m - Time: 1.987900972366333
+2025-02-07 09:27:31,947 - my_logger.logger - [34mINFO[0m - > Stop UserBot

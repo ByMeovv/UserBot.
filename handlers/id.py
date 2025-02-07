@@ -2,6 +2,7 @@ from telethon import events
 
 from my_logger.logger import log
 
+
 class ID:
     def __init__(self, client):
         self.client = client
