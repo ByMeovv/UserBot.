@@ -147,3 +147,906 @@
 2025-02-07 09:27:17,879 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
 2025-02-07 09:27:19,867 - my_logger.logger - [34mDEBUG[0m - Time: 1.987900972366333
 2025-02-07 09:27:31,947 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 09:42:39,284 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 09:46:47,873 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:46:53,024 - my_logger.logger - [34mDEBUG[0m - Time: 5.1506006717681885
+2025-02-07 09:47:32,100 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:47:38,247 - my_logger.logger - [34mDEBUG[0m - Time: 6.1463305950164795
+2025-02-07 09:48:22,688 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:48:23,825 - my_logger.logger - [34mDEBUG[0m - Time: 1.1366794109344482
+2025-02-07 09:48:30,268 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 09:48:31,618 - my_logger.logger - [34mDEBUG[0m - Time: 1.3496313095092773
+2025-02-07 09:48:31,665 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 09:48:32,696 - my_logger.logger - [34mDEBUG[0m - Time: 1.0315251350402832
+2025-02-07 09:48:32,713 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 09:48:33,819 - my_logger.logger - [34mDEBUG[0m - Time: 1.1058311462402344
+2025-02-07 09:48:53,112 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:48:54,142 - my_logger.logger - [34mDEBUG[0m - Time: 1.0304579734802246
+2025-02-07 09:51:38,582 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:51:48,390 - my_logger.logger - [34mDEBUG[0m - Time: 9.807722806930542
+2025-02-07 09:52:10,637 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:52:12,684 - my_logger.logger - [34mDEBUG[0m - Time: 2.046165943145752
+2025-02-07 09:53:36,652 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:53:37,738 - my_logger.logger - [34mDEBUG[0m - Time: 1.0857269763946533
+2025-02-07 09:56:47,631 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 09:56:54,324 - my_logger.logger - [34mDEBUG[0m - Time: 6.692588806152344
+2025-02-07 10:09:56,218 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 10:10:02,684 - my_logger.logger - [34mDEBUG[0m - Time: 6.465460300445557
+2025-02-07 10:10:06,468 - my_logger.logger - [34mINFO[0m - User with ID: 6483541991 using fox_handler.
+2025-02-07 10:10:09,077 - my_logger.logger - [34mDEBUG[0m - Time: 2.6083202362060547
+2025-02-07 10:20:10,327 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 10:20:21,580 - my_logger.logger - [34mDEBUG[0m - Time: 11.253147602081299
+2025-02-07 10:22:19,253 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 10:22:20,585 - my_logger.logger - [34mDEBUG[0m - Time: 1.3318886756896973
+2025-02-07 11:19:58,627 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 11:19:59,664 - my_logger.logger - [34mDEBUG[0m - Time: 1.0359902381896973
+2025-02-07 11:38:32,594 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 11:38:34,471 - my_logger.logger - [34mDEBUG[0m - Time: 1.8770477771759033
+2025-02-07 11:38:46,329 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 11:38:47,248 - my_logger.logger - [34mDEBUG[0m - Time: 0.9192590713500977
+2025-02-07 12:00:22,613 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 12:01:05,663 - my_logger.logger - [34mDEBUG[0m - Time: 43.048911571502686
+2025-02-07 12:01:06,059 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 12:01:07,858 - my_logger.logger - [34mDEBUG[0m - Time: 1.7994310855865479
+2025-02-07 12:16:21,591 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:22,683 - my_logger.logger - [34mDEBUG[0m - Time: 1.092144250869751
+2025-02-07 12:16:22,704 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:23,600 - my_logger.logger - [34mDEBUG[0m - Time: 0.8955996036529541
+2025-02-07 12:16:23,620 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:25,567 - my_logger.logger - [34mDEBUG[0m - Time: 1.9473659992218018
+2025-02-07 12:16:25,606 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:26,737 - my_logger.logger - [34mDEBUG[0m - Time: 1.131545066833496
+2025-02-07 12:16:26,771 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:38,400 - my_logger.logger - [34mDEBUG[0m - Time: 11.62845253944397
+2025-02-07 12:16:38,749 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:40,621 - my_logger.logger - [34mDEBUG[0m - Time: 1.871436357498169
+2025-02-07 12:16:40,663 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:41,531 - my_logger.logger - [34mDEBUG[0m - Time: 0.8676657676696777
+2025-02-07 12:16:41,544 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:42,629 - my_logger.logger - [34mDEBUG[0m - Time: 1.0851829051971436
+2025-02-07 12:16:42,649 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:51,227 - my_logger.logger - [34mDEBUG[0m - Time: 8.57834792137146
+2025-02-07 12:16:51,501 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:52,397 - my_logger.logger - [34mDEBUG[0m - Time: 0.8956348896026611
+2025-02-07 12:16:52,412 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:53,534 - my_logger.logger - [34mDEBUG[0m - Time: 1.1220002174377441
+2025-02-07 12:16:53,555 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:16:54,813 - my_logger.logger - [34mDEBUG[0m - Time: 1.2574641704559326
+2025-02-07 12:16:54,841 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:00,842 - my_logger.logger - [34mDEBUG[0m - Time: 6.00100564956665
+2025-02-07 12:17:03,653 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:05,064 - my_logger.logger - [34mDEBUG[0m - Time: 1.4104483127593994
+2025-02-07 12:17:05,066 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:07,341 - my_logger.logger - [34mDEBUG[0m - Time: 2.274728298187256
+2025-02-07 12:17:07,342 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:08,441 - my_logger.logger - [34mDEBUG[0m - Time: 1.099332571029663
+2025-02-07 12:17:08,443 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:11,550 - my_logger.logger - [34mDEBUG[0m - Time: 3.106600522994995
+2025-02-07 12:17:11,551 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:16,137 - my_logger.logger - [34mDEBUG[0m - Time: 4.585861921310425
+2025-02-07 12:17:16,138 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:21,934 - my_logger.logger - [34mDEBUG[0m - Time: 5.795652151107788
+2025-02-07 12:17:21,935 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:23,167 - my_logger.logger - [34mDEBUG[0m - Time: 1.2321465015411377
+2025-02-07 12:17:23,169 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:24,062 - my_logger.logger - [34mDEBUG[0m - Time: 0.8923940658569336
+2025-02-07 12:17:24,063 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:31,298 - my_logger.logger - [34mDEBUG[0m - Time: 7.234277963638306
+2025-02-07 12:17:31,299 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:34,620 - my_logger.logger - [34mDEBUG[0m - Time: 3.321056842803955
+2025-02-07 12:17:34,621 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:35,794 - my_logger.logger - [34mDEBUG[0m - Time: 1.172776699066162
+2025-02-07 12:17:35,795 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:36,929 - my_logger.logger - [34mDEBUG[0m - Time: 1.1333818435668945
+2025-02-07 12:17:36,931 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:46,188 - my_logger.logger - [34mDEBUG[0m - Time: 9.256889820098877
+2025-02-07 12:17:46,473 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 12:17:47,698 - my_logger.logger - [34mDEBUG[0m - Time: 1.225130319595337
+2025-02-07 13:12:12,468 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:12:13,951 - my_logger.logger - [34mDEBUG[0m - Time: 1.4832358360290527
+2025-02-07 13:12:43,084 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:12:44,271 - my_logger.logger - [34mDEBUG[0m - Time: 1.186478853225708
+2025-02-07 13:12:44,298 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:12:45,293 - my_logger.logger - [34mDEBUG[0m - Time: 0.9941408634185791
+2025-02-07 13:12:45,305 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:12:46,685 - my_logger.logger - [34mDEBUG[0m - Time: 1.3802244663238525
+2025-02-07 13:12:46,710 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:12:56,257 - my_logger.logger - [34mDEBUG[0m - Time: 9.546666383743286
+2025-02-07 13:12:56,603 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:12:58,583 - my_logger.logger - [34mDEBUG[0m - Time: 1.979952096939087
+2025-02-07 13:12:58,600 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:00,266 - my_logger.logger - [34mDEBUG[0m - Time: 1.6667144298553467
+2025-02-07 13:13:00,297 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:03,437 - my_logger.logger - [34mDEBUG[0m - Time: 3.139240264892578
+2025-02-07 13:13:03,464 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:09,464 - my_logger.logger - [34mDEBUG[0m - Time: 5.999163389205933
+2025-02-07 13:13:09,882 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:14,060 - my_logger.logger - [34mDEBUG[0m - Time: 4.178564786911011
+2025-02-07 13:13:14,088 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:15,905 - my_logger.logger - [34mDEBUG[0m - Time: 1.8159334659576416
+2025-02-07 13:13:15,926 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:18,863 - my_logger.logger - [34mDEBUG[0m - Time: 2.9370672702789307
+2025-02-07 13:13:18,891 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:20,887 - my_logger.logger - [34mDEBUG[0m - Time: 1.9965693950653076
+2025-02-07 13:13:20,914 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:27,487 - my_logger.logger - [34mDEBUG[0m - Time: 6.572717189788818
+2025-02-07 13:13:27,803 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:28,705 - my_logger.logger - [34mDEBUG[0m - Time: 0.9024322032928467
+2025-02-07 13:13:28,724 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:35,935 - my_logger.logger - [34mDEBUG[0m - Time: 7.210984706878662
+2025-02-07 13:13:36,252 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:37,345 - my_logger.logger - [34mDEBUG[0m - Time: 1.0927491188049316
+2025-02-07 13:13:37,381 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:47,845 - my_logger.logger - [34mDEBUG[0m - Time: 10.46381425857544
+2025-02-07 13:13:48,147 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:58,461 - my_logger.logger - [34mDEBUG[0m - Time: 10.313989639282227
+2025-02-07 13:13:58,724 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:13:59,899 - my_logger.logger - [34mDEBUG[0m - Time: 1.1748132705688477
+2025-02-07 13:14:01,480 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:03,040 - my_logger.logger - [34mDEBUG[0m - Time: 1.5594673156738281
+2025-02-07 13:14:03,042 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:04,198 - my_logger.logger - [34mDEBUG[0m - Time: 1.1558446884155273
+2025-02-07 13:14:04,200 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:09,771 - my_logger.logger - [34mDEBUG[0m - Time: 5.570264577865601
+2025-02-07 13:14:10,032 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:11,288 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:17,167 - my_logger.logger - [34mDEBUG[0m - Time: 5.8789756298065186
+2025-02-07 13:14:17,168 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:18,178 - my_logger.logger - [34mDEBUG[0m - Time: 1.009354591369629
+2025-02-07 13:14:18,180 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:20,530 - my_logger.logger - [34mDEBUG[0m - Time: 2.3498318195343018
+2025-02-07 13:14:20,532 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:21,536 - my_logger.logger - [34mDEBUG[0m - Time: 1.0044076442718506
+2025-02-07 13:14:21,538 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:22,778 - my_logger.logger - [34mDEBUG[0m - Time: 1.2397005558013916
+2025-02-07 13:14:22,780 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:26,726 - my_logger.logger - [34mDEBUG[0m - Time: 3.945261240005493
+2025-02-07 13:14:26,728 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:27,792 - my_logger.logger - [34mDEBUG[0m - Time: 1.0634844303131104
+2025-02-07 13:14:27,793 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:29,556 - my_logger.logger - [34mDEBUG[0m - Time: 1.7624859809875488
+2025-02-07 13:14:29,558 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:41,439 - my_logger.logger - [34mDEBUG[0m - Time: 11.880794286727905
+2025-02-07 13:14:41,710 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:49,753 - my_logger.logger - [34mDEBUG[0m - Time: 8.0432870388031
+2025-02-07 13:14:49,754 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:51,020 - my_logger.logger - [34mDEBUG[0m - Time: 1.266092300415039
+2025-02-07 13:14:51,022 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:52,081 - my_logger.logger - [34mDEBUG[0m - Time: 1.0586400032043457
+2025-02-07 13:14:52,083 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:53,043 - my_logger.logger - [34mDEBUG[0m - Time: 0.9594767093658447
+2025-02-07 13:14:53,044 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:56,265 - my_logger.logger - [34mDEBUG[0m - Time: 3.220888614654541
+2025-02-07 13:14:56,266 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:14:57,472 - my_logger.logger - [34mDEBUG[0m - Time: 1.205449104309082
+2025-02-07 13:23:12,956 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:23:14,433 - my_logger.logger - [34mDEBUG[0m - Time: 1.4765450954437256
+2025-02-07 13:23:14,469 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:23:15,645 - my_logger.logger - [34mDEBUG[0m - Time: 1.1754727363586426
+2025-02-07 13:23:15,673 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:23:16,569 - my_logger.logger - [34mDEBUG[0m - Time: 0.8951914310455322
+2025-02-07 13:23:16,602 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:23:19,324 - my_logger.logger - [34mDEBUG[0m - Time: 2.7216744422912598
+2025-02-07 13:23:19,356 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:23:22,116 - my_logger.logger - [34mDEBUG[0m - Time: 2.759340763092041
+2025-02-07 13:28:24,879 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:28:27,210 - my_logger.logger - [34mDEBUG[0m - Time: 2.3309340476989746
+2025-02-07 13:28:27,567 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:28:31,904 - my_logger.logger - [34mDEBUG[0m - Time: 4.336931943893433
+2025-02-07 13:28:31,905 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:28:35,587 - my_logger.logger - [34mDEBUG[0m - Time: 3.682117462158203
+2025-02-07 13:28:35,640 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:28:39,172 - my_logger.logger - [34mDEBUG[0m - Time: 3.5321264266967773
+2025-02-07 13:28:39,208 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:28:40,587 - my_logger.logger - [34mDEBUG[0m - Time: 1.3792064189910889
+2025-02-07 13:29:56,516 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 13:29:57,852 - my_logger.logger - [34mDEBUG[0m - Time: 1.335458517074585
+2025-02-07 13:31:40,210 - my_logger.logger - [34mINFO[0m - > Stop UserBot
+2025-02-07 13:31:41,553 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 13:31:48,140 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:31:51,131 - my_logger.logger - [34mDEBUG[0m - Time: 2.991250514984131
+2025-02-07 13:32:04,222 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:32:06,112 - my_logger.logger - [34mDEBUG[0m - Time: 1.8896210193634033
+2025-02-07 13:32:06,147 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:32:07,734 - my_logger.logger - [34mDEBUG[0m - Time: 1.5866177082061768
+2025-02-07 13:32:07,762 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:32:12,490 - my_logger.logger - [34mDEBUG[0m - Time: 4.7275354862213135
+2025-02-07 13:32:12,520 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:32:13,992 - my_logger.logger - [34mDEBUG[0m - Time: 1.4719223976135254
+2025-02-07 13:32:14,017 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 13:32:23,656 - my_logger.logger - [34mDEBUG[0m - Time: 9.639081954956055
+2025-02-07 16:36:56,897 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 18:28:30,851 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 18:28:36,059 - my_logger.logger - [34mDEBUG[0m - Time: 5.2081780433654785
+2025-02-07 18:30:58,547 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 18:31:00,065 - my_logger.logger - [34mDEBUG[0m - Time: 1.5180778503417969
+2025-02-07 18:31:08,645 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 18:31:10,212 - my_logger.logger - [34mDEBUG[0m - Time: 1.5664827823638916
+2025-02-07 18:31:24,621 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 18:31:25,722 - my_logger.logger - [34mDEBUG[0m - Time: 1.1007027626037598
+2025-02-07 18:32:15,050 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 18:32:16,596 - my_logger.logger - [34mDEBUG[0m - Time: 1.545872688293457
+2025-02-07 18:36:45,187 - my_logger.logger - [34mINFO[0m - User with ID: 7804540023 using fox_handler.
+2025-02-07 18:36:46,524 - my_logger.logger - [34mDEBUG[0m - Time: 1.3364977836608887
+2025-02-07 18:36:51,123 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 18:36:57,650 - my_logger.logger - [34mDEBUG[0m - Time: 6.5260913372039795
+2025-02-07 18:36:57,678 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 18:37:00,540 - my_logger.logger - [34mDEBUG[0m - Time: 2.8622829914093018
+2025-02-07 18:37:00,571 - my_logger.logger - [34mINFO[0m - User with ID: 7804540023 using fox_handler.
+2025-02-07 18:37:03,763 - my_logger.logger - [34mDEBUG[0m - Time: 3.1910202503204346
+2025-02-07 18:37:03,798 - my_logger.logger - [34mINFO[0m - User with ID: 698170941 using fox_handler.
+2025-02-07 18:37:17,965 - my_logger.logger - [34mDEBUG[0m - Time: 14.166587352752686
+2025-02-07 18:37:18,294 - my_logger.logger - [34mINFO[0m - User with ID: 7804540023 using fox_handler.
+2025-02-07 18:37:20,271 - my_logger.logger - [34mDEBUG[0m - Time: 1.9777381420135498
+2025-02-07 18:37:20,300 - my_logger.logger - [34mINFO[0m - User with ID: 7804540023 using fox_handler.
+2025-02-07 18:37:21,113 - my_logger.logger - [34mDEBUG[0m - Time: 0.8123533725738525
+2025-02-07 18:37:21,125 - my_logger.logger - [34mINFO[0m - User with ID: 7804540023 using fox_handler.
+2025-02-07 18:37:22,427 - my_logger.logger - [34mDEBUG[0m - Time: 1.3016629219055176
+2025-02-07 18:49:17,975 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 18:49:21,654 - my_logger.logger - [34mDEBUG[0m - Time: 3.679054021835327
+2025-02-07 18:50:17,278 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 18:50:18,861 - my_logger.logger - [34mDEBUG[0m - Time: 1.58355712890625
+2025-02-07 18:53:54,572 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 18:53:57,310 - my_logger.logger - [34mDEBUG[0m - Time: 2.737489700317383
+2025-02-07 18:56:03,712 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 18:56:05,635 - my_logger.logger - [34mDEBUG[0m - Time: 1.9234232902526855
+2025-02-07 18:56:13,332 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 18:56:15,964 - my_logger.logger - [34mDEBUG[0m - Time: 2.6321732997894287
+2025-02-07 18:58:16,722 - my_logger.logger - [34mINFO[0m - User with ID: 1494739556 using fox_handler.
+2025-02-07 18:58:19,917 - my_logger.logger - [34mDEBUG[0m - Time: 3.195068120956421
+2025-02-07 19:00:20,316 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 19:01:01,233 - my_logger.logger - [34mDEBUG[0m - Time: 40.916189670562744
+2025-02-07 19:03:19,220 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 19:03:27,769 - my_logger.logger - [34mDEBUG[0m - Time: 8.549559116363525
+2025-02-07 19:03:27,799 - my_logger.logger - [34mINFO[0m - User with ID: 6774101983 using fox_handler.
+2025-02-07 19:03:29,067 - my_logger.logger - [34mDEBUG[0m - Time: 1.2672162055969238
+2025-02-07 19:03:29,081 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 19:03:37,082 - my_logger.logger - [34mDEBUG[0m - Time: 8.000973463058472
+2025-02-07 19:03:37,415 - my_logger.logger - [34mINFO[0m - User with ID: 1882838785 using fox_handler.
+2025-02-07 19:03:41,451 - my_logger.logger - [34mDEBUG[0m - Time: 4.0362067222595215
+2025-02-07 19:15:50,886 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 19:16:05,385 - my_logger.logger - [34mDEBUG[0m - Time: 14.499335289001465
+2025-02-07 19:58:49,191 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 19:58:50,909 - my_logger.logger - [34mDEBUG[0m - Time: 1.7176685333251953
+2025-02-07 19:59:23,804 - my_logger.logger - [34mINFO[0m - User with ID: 6483541991 using fox_handler.
+2025-02-07 19:59:26,498 - my_logger.logger - [34mDEBUG[0m - Time: 2.6935014724731445
+2025-02-07 20:08:11,576 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 20:08:12,920 - my_logger.logger - [34mDEBUG[0m - Time: 1.343653678894043
+2025-02-07 20:08:25,921 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 20:08:29,131 - my_logger.logger - [34mDEBUG[0m - Time: 3.2093939781188965
+2025-02-07 20:08:29,865 - my_logger.logger - [34mINFO[0m - User with ID: 5273256543 using fox_handler.
+2025-02-07 20:08:32,124 - my_logger.logger - [34mDEBUG[0m - Time: 2.2586777210235596
+2025-02-07 20:25:00,541 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 20:25:05,372 - my_logger.logger - [34mDEBUG[0m - Time: 4.831647157669067
+2025-02-07 20:25:07,908 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 20:25:10,224 - my_logger.logger - [34mDEBUG[0m - Time: 2.315821886062622
+2025-02-07 20:25:10,254 - my_logger.logger - [34mINFO[0m - User with ID: 5273256543 using fox_handler.
+2025-02-07 20:25:22,423 - my_logger.logger - [34mDEBUG[0m - Time: 12.168517827987671
+2025-02-07 20:25:23,772 - my_logger.logger - [34mINFO[0m - User with ID: 5001802816 using fox_handler.
+2025-02-07 20:25:25,763 - my_logger.logger - [34mDEBUG[0m - Time: 1.99113130569458
+2025-02-07 20:26:11,535 - my_logger.logger - [34mINFO[0m - User with ID: 5140048314 using fox_handler.
+2025-02-07 20:26:14,042 - my_logger.logger - [34mDEBUG[0m - Time: 2.5061886310577393
+2025-02-07 20:26:14,067 - my_logger.logger - [34mINFO[0m - User with ID: 6774101983 using fox_handler.
+2025-02-07 20:26:24,624 - my_logger.logger - [34mDEBUG[0m - Time: 10.556944608688354
+2025-02-07 20:26:31,073 - my_logger.logger - [34mINFO[0m - User with ID: 5140048314 using fox_handler.
+2025-02-07 20:26:32,375 - my_logger.logger - [34mDEBUG[0m - Time: 1.301795244216919
+2025-02-07 20:26:32,900 - my_logger.logger - [34mINFO[0m - User with ID: 6774101983 using fox_handler.
+2025-02-07 20:26:35,689 - my_logger.logger - [34mDEBUG[0m - Time: 2.78813099861145
+2025-02-07 20:26:36,081 - my_logger.logger - [34mINFO[0m - User with ID: 6774101983 using fox_handler.
+2025-02-07 20:26:37,306 - my_logger.logger - [34mDEBUG[0m - Time: 1.2253119945526123
+2025-02-07 20:27:03,725 - my_logger.logger - [34mINFO[0m - User with ID: 6774101983 using fox_handler.
+2025-02-07 20:27:14,873 - my_logger.logger - [34mDEBUG[0m - Time: 11.147640228271484
+2025-02-07 20:27:19,747 - my_logger.logger - [34mINFO[0m - User with ID: 1494739556 using fox_handler.
+2025-02-07 20:27:22,957 - my_logger.logger - [34mDEBUG[0m - Time: 3.2089786529541016
+2025-02-07 20:27:23,564 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 20:27:25,507 - my_logger.logger - [34mDEBUG[0m - Time: 1.942516565322876
+2025-02-07 20:27:29,632 - my_logger.logger - [34mINFO[0m - User with ID: 6774101983 using fox_handler.
+2025-02-07 20:27:37,250 - my_logger.logger - [34mDEBUG[0m - Time: 7.61838698387146
+2025-02-07 20:27:37,908 - my_logger.logger - [34mINFO[0m - User with ID: 6110090400 using fox_handler.
+2025-02-07 20:27:39,083 - my_logger.logger - [34mDEBUG[0m - Time: 1.1747336387634277
+2025-02-07 20:27:39,085 - my_logger.logger - [34mINFO[0m - User with ID: 6774101983 using fox_handler.
+2025-02-07 20:27:41,269 - my_logger.logger - [34mDEBUG[0m - Time: 2.183882713317871
+2025-02-07 20:27:41,326 - my_logger.logger - [34mINFO[0m - User with ID: 1494739556 using fox_handler.
+2025-02-07 20:27:42,762 - my_logger.logger - [34mDEBUG[0m - Time: 1.4359309673309326
+2025-02-07 20:27:50,729 - my_logger.logger - [34mINFO[0m - User with ID: 1494739556 using fox_handler.
+2025-02-07 20:27:56,910 - my_logger.logger - [34mDEBUG[0m - Time: 6.181156158447266
+2025-02-07 20:28:02,929 - my_logger.logger - [34mINFO[0m - User with ID: 6774101983 using fox_handler.
+2025-02-07 20:28:05,367 - my_logger.logger - [34mDEBUG[0m - Time: 2.438009262084961
+2025-02-07 20:28:13,667 - my_logger.logger - [34mINFO[0m - User with ID: 1494739556 using fox_handler.
+2025-02-07 20:28:16,915 - my_logger.logger - [34mDEBUG[0m - Time: 3.2472496032714844
+2025-02-07 20:28:46,333 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 20:28:50,740 - my_logger.logger - [34mDEBUG[0m - Time: 4.407260179519653
+2025-02-07 20:28:51,089 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 20:28:56,957 - my_logger.logger - [34mDEBUG[0m - Time: 5.867735147476196
+2025-02-07 20:28:56,958 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 20:28:58,040 - my_logger.logger - [34mDEBUG[0m - Time: 1.0817139148712158
+2025-02-07 20:35:46,083 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:35:54,572 - my_logger.logger - [34mDEBUG[0m - Time: 8.489153385162354
+2025-02-07 20:36:32,158 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:36:39,216 - my_logger.logger - [34mDEBUG[0m - Time: 7.057645082473755
+2025-02-07 20:37:16,696 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:37:18,525 - my_logger.logger - [34mDEBUG[0m - Time: 1.8282592296600342
+2025-02-07 20:37:29,804 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:37:39,085 - my_logger.logger - [34mDEBUG[0m - Time: 9.280832052230835
+2025-02-07 20:38:02,782 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:38:06,120 - my_logger.logger - [34mDEBUG[0m - Time: 3.3376502990722656
+2025-02-07 20:38:21,621 - my_logger.logger - [34mINFO[0m - User with ID: 5140048314 using fox_handler.
+2025-02-07 20:38:33,642 - my_logger.logger - [34mDEBUG[0m - Time: 12.021223545074463
+2025-02-07 20:38:50,601 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:38:52,106 - my_logger.logger - [34mDEBUG[0m - Time: 1.504582166671753
+2025-02-07 20:39:27,158 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:39:28,772 - my_logger.logger - [34mDEBUG[0m - Time: 1.6132278442382812
+2025-02-07 20:39:56,239 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:39:58,783 - my_logger.logger - [34mDEBUG[0m - Time: 2.5438132286071777
+2025-02-07 20:39:59,873 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:40:00,755 - my_logger.logger - [34mDEBUG[0m - Time: 0.8817763328552246
+2025-02-07 20:40:07,091 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:08,537 - my_logger.logger - [34mDEBUG[0m - Time: 1.4455697536468506
+2025-02-07 20:40:08,575 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:16,276 - my_logger.logger - [34mDEBUG[0m - Time: 7.700710296630859
+2025-02-07 20:40:16,547 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:28,238 - my_logger.logger - [34mDEBUG[0m - Time: 11.690860271453857
+2025-02-07 20:40:28,909 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:29,877 - my_logger.logger - [34mDEBUG[0m - Time: 0.9677369594573975
+2025-02-07 20:40:29,878 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:31,720 - my_logger.logger - [34mDEBUG[0m - Time: 1.8413231372833252
+2025-02-07 20:40:31,722 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:34,149 - my_logger.logger - [34mDEBUG[0m - Time: 2.426486015319824
+2025-02-07 20:40:34,151 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:36,893 - my_logger.logger - [34mDEBUG[0m - Time: 2.74178147315979
+2025-02-07 20:40:36,894 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:38,920 - my_logger.logger - [34mDEBUG[0m - Time: 2.0252180099487305
+2025-02-07 20:40:38,922 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:40,627 - my_logger.logger - [34mDEBUG[0m - Time: 1.7052457332611084
+2025-02-07 20:40:40,629 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:43,379 - my_logger.logger - [34mDEBUG[0m - Time: 2.749450445175171
+2025-02-07 20:40:43,381 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:45,706 - my_logger.logger - [34mDEBUG[0m - Time: 2.3248391151428223
+2025-02-07 20:40:45,707 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:53,012 - my_logger.logger - [34mDEBUG[0m - Time: 7.30481219291687
+2025-02-07 20:40:53,015 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:55,022 - my_logger.logger - [34mDEBUG[0m - Time: 2.00704288482666
+2025-02-07 20:40:55,024 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:40:56,857 - my_logger.logger - [34mDEBUG[0m - Time: 1.8329176902770996
+2025-02-07 20:40:56,859 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:01,271 - my_logger.logger - [34mDEBUG[0m - Time: 4.411969184875488
+2025-02-07 20:41:01,272 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:03,077 - my_logger.logger - [34mDEBUG[0m - Time: 1.8047528266906738
+2025-02-07 20:41:03,078 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:04,066 - my_logger.logger - [34mDEBUG[0m - Time: 0.9872596263885498
+2025-02-07 20:41:04,067 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:05,180 - my_logger.logger - [34mDEBUG[0m - Time: 1.1127650737762451
+2025-02-07 20:41:05,182 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:07,600 - my_logger.logger - [34mDEBUG[0m - Time: 2.417965888977051
+2025-02-07 20:41:07,601 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:12,939 - my_logger.logger - [34mDEBUG[0m - Time: 5.3378283977508545
+2025-02-07 20:41:13,239 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:15,881 - my_logger.logger - [34mDEBUG[0m - Time: 2.641716241836548
+2025-02-07 20:41:15,883 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:16,982 - my_logger.logger - [34mDEBUG[0m - Time: 1.0989255905151367
+2025-02-07 20:41:16,984 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:18,130 - my_logger.logger - [34mDEBUG[0m - Time: 1.1454932689666748
+2025-02-07 20:41:18,132 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:22,037 - my_logger.logger - [34mDEBUG[0m - Time: 3.904489517211914
+2025-02-07 20:41:23,367 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:25,142 - my_logger.logger - [34mDEBUG[0m - Time: 1.7746777534484863
+2025-02-07 20:41:25,144 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:26,176 - my_logger.logger - [34mDEBUG[0m - Time: 1.0319862365722656
+2025-02-07 20:41:26,178 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:36,988 - my_logger.logger - [34mDEBUG[0m - Time: 10.809390306472778
+2025-02-07 20:41:37,281 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:41,545 - my_logger.logger - [34mDEBUG[0m - Time: 4.263908386230469
+2025-02-07 20:41:41,546 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:43,583 - my_logger.logger - [34mDEBUG[0m - Time: 2.037548303604126
+2025-02-07 20:41:43,584 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:44,746 - my_logger.logger - [34mDEBUG[0m - Time: 1.1614282131195068
+2025-02-07 20:41:44,748 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:41:55,059 - my_logger.logger - [34mDEBUG[0m - Time: 10.310468196868896
+2025-02-07 20:41:56,801 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:41:57,924 - my_logger.logger - [34mDEBUG[0m - Time: 1.1225807666778564
+2025-02-07 20:42:34,758 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:42:38,194 - my_logger.logger - [34mDEBUG[0m - Time: 3.43544864654541
+2025-02-07 20:42:38,464 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:42:49,048 - my_logger.logger - [34mDEBUG[0m - Time: 10.583925247192383
+2025-02-07 20:42:49,180 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:42:50,123 - my_logger.logger - [34mDEBUG[0m - Time: 0.9434847831726074
+2025-02-07 20:42:50,125 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:42:51,837 - my_logger.logger - [34mDEBUG[0m - Time: 1.7121553421020508
+2025-02-07 20:42:51,839 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:42:53,865 - my_logger.logger - [34mDEBUG[0m - Time: 2.0265159606933594
+2025-02-07 20:42:53,867 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:42:54,787 - my_logger.logger - [34mDEBUG[0m - Time: 0.9193415641784668
+2025-02-07 20:42:54,788 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:42:55,961 - my_logger.logger - [34mDEBUG[0m - Time: 1.1727852821350098
+2025-02-07 20:42:55,962 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:42:57,400 - my_logger.logger - [34mDEBUG[0m - Time: 1.4384117126464844
+2025-02-07 20:42:57,402 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:01,734 - my_logger.logger - [34mDEBUG[0m - Time: 4.331386089324951
+2025-02-07 20:43:01,735 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:03,144 - my_logger.logger - [34mDEBUG[0m - Time: 1.4090728759765625
+2025-02-07 20:43:03,145 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:10,402 - my_logger.logger - [34mDEBUG[0m - Time: 7.25704026222229
+2025-02-07 20:43:10,949 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:13,245 - my_logger.logger - [34mDEBUG[0m - Time: 2.2958927154541016
+2025-02-07 20:43:13,284 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:14,525 - my_logger.logger - [34mDEBUG[0m - Time: 1.240814208984375
+2025-02-07 20:43:14,568 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:20,681 - my_logger.logger - [34mDEBUG[0m - Time: 6.112531900405884
+2025-02-07 20:43:20,707 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:35,240 - my_logger.logger - [34mDEBUG[0m - Time: 14.532312870025635
+2025-02-07 20:43:35,474 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:38,212 - my_logger.logger - [34mDEBUG[0m - Time: 2.7384700775146484
+2025-02-07 20:43:38,248 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:43,524 - my_logger.logger - [34mDEBUG[0m - Time: 5.276164531707764
+2025-02-07 20:43:43,552 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:44,488 - my_logger.logger - [34mDEBUG[0m - Time: 0.9360635280609131
+2025-02-07 20:43:44,500 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:46,944 - my_logger.logger - [34mDEBUG[0m - Time: 2.4432125091552734
+2025-02-07 20:43:46,985 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:48,491 - my_logger.logger - [34mDEBUG[0m - Time: 1.5055150985717773
+2025-02-07 20:43:48,530 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:53,630 - my_logger.logger - [34mDEBUG[0m - Time: 5.0999956130981445
+2025-02-07 20:43:53,656 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:54,978 - my_logger.logger - [34mDEBUG[0m - Time: 1.321566104888916
+2025-02-07 20:43:55,024 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:43:58,633 - my_logger.logger - [34mDEBUG[0m - Time: 3.609069347381592
+2025-02-07 20:43:58,664 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:01,547 - my_logger.logger - [34mDEBUG[0m - Time: 2.8825230598449707
+2025-02-07 20:44:01,578 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:03,316 - my_logger.logger - [34mDEBUG[0m - Time: 1.738494873046875
+2025-02-07 20:44:03,686 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:07,806 - my_logger.logger - [34mDEBUG[0m - Time: 4.119779348373413
+2025-02-07 20:44:07,807 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:10,629 - my_logger.logger - [34mDEBUG[0m - Time: 2.8224918842315674
+2025-02-07 20:44:10,631 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:11,760 - my_logger.logger - [34mDEBUG[0m - Time: 1.1281704902648926
+2025-02-07 20:44:11,761 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:14,421 - my_logger.logger - [34mDEBUG[0m - Time: 2.6602096557617188
+2025-02-07 20:44:14,422 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:15,251 - my_logger.logger - [34mDEBUG[0m - Time: 0.828371524810791
+2025-02-07 20:44:15,252 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:19,148 - my_logger.logger - [34mDEBUG[0m - Time: 3.8952319622039795
+2025-02-07 20:44:19,149 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:21,899 - my_logger.logger - [34mDEBUG[0m - Time: 2.750706911087036
+2025-02-07 20:44:21,901 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:23,890 - my_logger.logger - [34mDEBUG[0m - Time: 1.9891574382781982
+2025-02-07 20:44:23,892 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:33,515 - my_logger.logger - [34mDEBUG[0m - Time: 9.622793674468994
+2025-02-07 20:44:33,517 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:34,774 - my_logger.logger - [34mDEBUG[0m - Time: 1.256457805633545
+2025-02-07 20:44:34,776 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:36,468 - my_logger.logger - [34mDEBUG[0m - Time: 1.69227933883667
+2025-02-07 20:44:36,470 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:37,812 - my_logger.logger - [34mDEBUG[0m - Time: 1.3418023586273193
+2025-02-07 20:44:37,814 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:38,931 - my_logger.logger - [34mDEBUG[0m - Time: 1.1173663139343262
+2025-02-07 20:44:38,932 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:49,534 - my_logger.logger - [34mDEBUG[0m - Time: 10.602205276489258
+2025-02-07 20:44:49,797 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:53,177 - my_logger.logger - [34mDEBUG[0m - Time: 3.3801681995391846
+2025-02-07 20:44:53,178 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:54,359 - my_logger.logger - [34mDEBUG[0m - Time: 1.180670976638794
+2025-02-07 20:44:54,361 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:55,579 - my_logger.logger - [34mDEBUG[0m - Time: 1.2178335189819336
+2025-02-07 20:44:55,580 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:57,755 - my_logger.logger - [34mDEBUG[0m - Time: 2.1750330924987793
+2025-02-07 20:44:57,757 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:44:59,034 - my_logger.logger - [34mDEBUG[0m - Time: 1.2761421203613281
+2025-02-07 20:44:59,035 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:04,328 - my_logger.logger - [34mDEBUG[0m - Time: 5.2920989990234375
+2025-02-07 20:45:04,329 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:06,247 - my_logger.logger - [34mDEBUG[0m - Time: 1.9179496765136719
+2025-02-07 20:45:06,247 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:08,339 - my_logger.logger - [34mDEBUG[0m - Time: 2.0918431282043457
+2025-02-07 20:45:08,341 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:12,338 - my_logger.logger - [34mDEBUG[0m - Time: 3.9962971210479736
+2025-02-07 20:45:12,340 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:17,401 - my_logger.logger - [34mDEBUG[0m - Time: 5.060892343521118
+2025-02-07 20:45:17,654 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:25,291 - my_logger.logger - [34mDEBUG[0m - Time: 7.637427091598511
+2025-02-07 20:45:25,591 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:43,140 - my_logger.logger - [34mDEBUG[0m - Time: 17.548928260803223
+2025-02-07 20:45:43,445 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:44,611 - my_logger.logger - [34mDEBUG[0m - Time: 1.1660864353179932
+2025-02-07 20:45:44,613 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:46,724 - my_logger.logger - [34mDEBUG[0m - Time: 2.1111109256744385
+2025-02-07 20:45:46,726 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:48,795 - my_logger.logger - [34mDEBUG[0m - Time: 2.068356513977051
+2025-02-07 20:45:48,796 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:49,903 - my_logger.logger - [34mDEBUG[0m - Time: 1.106764554977417
+2025-02-07 20:45:49,905 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:54,561 - my_logger.logger - [34mDEBUG[0m - Time: 4.655121803283691
+2025-02-07 20:45:54,780 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:45:57,997 - my_logger.logger - [34mDEBUG[0m - Time: 3.2166802883148193
+2025-02-07 20:45:57,998 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:00,974 - my_logger.logger - [34mDEBUG[0m - Time: 2.9764180183410645
+2025-02-07 20:46:00,975 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:02,042 - my_logger.logger - [34mDEBUG[0m - Time: 1.0668377876281738
+2025-02-07 20:46:02,043 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:03,111 - my_logger.logger - [34mDEBUG[0m - Time: 1.067580223083496
+2025-02-07 20:46:03,113 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:03,983 - my_logger.logger - [34mDEBUG[0m - Time: 0.869542121887207
+2025-02-07 20:46:03,984 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:05,040 - my_logger.logger - [34mDEBUG[0m - Time: 1.0553288459777832
+2025-02-07 20:46:05,041 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:12,164 - my_logger.logger - [34mDEBUG[0m - Time: 7.123060464859009
+2025-02-07 20:46:12,368 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:13,628 - my_logger.logger - [34mDEBUG[0m - Time: 1.2595930099487305
+2025-02-07 20:46:13,630 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:16,553 - my_logger.logger - [34mDEBUG[0m - Time: 2.923078775405884
+2025-02-07 20:46:16,555 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:18,108 - my_logger.logger - [34mDEBUG[0m - Time: 1.5520858764648438
+2025-02-07 20:46:18,109 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:29,906 - my_logger.logger - [34mDEBUG[0m - Time: 11.797577857971191
+2025-02-07 20:46:29,907 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:37,234 - my_logger.logger - [34mDEBUG[0m - Time: 7.3270111083984375
+2025-02-07 20:46:37,237 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:38,286 - my_logger.logger - [34mDEBUG[0m - Time: 1.049149513244629
+2025-02-07 20:46:38,288 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:39,829 - my_logger.logger - [34mDEBUG[0m - Time: 1.5406348705291748
+2025-02-07 20:46:39,831 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:41,503 - my_logger.logger - [34mDEBUG[0m - Time: 1.6722803115844727
+2025-02-07 20:46:41,504 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:42,651 - my_logger.logger - [34mDEBUG[0m - Time: 1.1467559337615967
+2025-02-07 20:46:42,653 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:43,490 - my_logger.logger - [34mDEBUG[0m - Time: 0.8369953632354736
+2025-02-07 20:46:43,492 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:46,811 - my_logger.logger - [34mDEBUG[0m - Time: 3.319768190383911
+2025-02-07 20:46:46,812 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:49,234 - my_logger.logger - [34mDEBUG[0m - Time: 2.42116641998291
+2025-02-07 20:46:49,235 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:51,994 - my_logger.logger - [34mDEBUG[0m - Time: 2.759021520614624
+2025-02-07 20:46:51,995 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:52,888 - my_logger.logger - [34mDEBUG[0m - Time: 0.8927910327911377
+2025-02-07 20:46:52,889 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:46:56,381 - my_logger.logger - [34mDEBUG[0m - Time: 3.4910900592803955
+2025-02-07 20:46:56,381 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:07,951 - my_logger.logger - [34mDEBUG[0m - Time: 11.56937026977539
+2025-02-07 20:47:07,954 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:11,500 - my_logger.logger - [34mDEBUG[0m - Time: 3.5464484691619873
+2025-02-07 20:47:11,501 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:12,708 - my_logger.logger - [34mDEBUG[0m - Time: 1.206468105316162
+2025-02-07 20:47:12,710 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:15,073 - my_logger.logger - [34mDEBUG[0m - Time: 2.363313674926758
+2025-02-07 20:47:15,074 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:25,419 - my_logger.logger - [34mDEBUG[0m - Time: 10.344507455825806
+2025-02-07 20:47:25,663 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:26,797 - my_logger.logger - [34mDEBUG[0m - Time: 1.1330442428588867
+2025-02-07 20:47:26,798 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:29,146 - my_logger.logger - [34mDEBUG[0m - Time: 2.34769344329834
+2025-02-07 20:47:29,148 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:30,089 - my_logger.logger - [34mDEBUG[0m - Time: 0.940575122833252
+2025-02-07 20:47:30,090 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:44,591 - my_logger.logger - [34mDEBUG[0m - Time: 14.50058102607727
+2025-02-07 20:47:44,917 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:47,183 - my_logger.logger - [34mDEBUG[0m - Time: 2.266157627105713
+2025-02-07 20:47:47,185 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:48,307 - my_logger.logger - [34mDEBUG[0m - Time: 1.1216871738433838
+2025-02-07 20:47:48,309 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:52,277 - my_logger.logger - [34mDEBUG[0m - Time: 3.9679787158966064
+2025-02-07 20:47:52,278 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:54,885 - my_logger.logger - [34mDEBUG[0m - Time: 2.607400894165039
+2025-02-07 20:47:56,783 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:47:58,147 - my_logger.logger - [34mDEBUG[0m - Time: 1.363572597503662
+2025-02-07 20:47:58,149 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:02,259 - my_logger.logger - [34mDEBUG[0m - Time: 4.110135316848755
+2025-02-07 20:48:02,260 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:04,314 - my_logger.logger - [34mDEBUG[0m - Time: 2.054133415222168
+2025-02-07 20:48:04,315 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:06,549 - my_logger.logger - [34mDEBUG[0m - Time: 2.233959913253784
+2025-02-07 20:48:06,550 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:08,432 - my_logger.logger - [34mDEBUG[0m - Time: 1.8820440769195557
+2025-02-07 20:48:08,433 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:10,584 - my_logger.logger - [34mDEBUG[0m - Time: 2.150954008102417
+2025-02-07 20:48:10,586 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:13,514 - my_logger.logger - [34mDEBUG[0m - Time: 2.9275009632110596
+2025-02-07 20:48:13,516 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:15,150 - my_logger.logger - [34mDEBUG[0m - Time: 1.6342384815216064
+2025-02-07 20:48:15,152 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:17,148 - my_logger.logger - [34mDEBUG[0m - Time: 1.9958775043487549
+2025-02-07 20:48:17,150 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:21,333 - my_logger.logger - [34mDEBUG[0m - Time: 4.182308673858643
+2025-02-07 20:48:21,559 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:23,944 - my_logger.logger - [34mDEBUG[0m - Time: 2.385082244873047
+2025-02-07 20:48:23,946 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:28,129 - my_logger.logger - [34mDEBUG[0m - Time: 4.182514905929565
+2025-02-07 20:48:28,130 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:33,427 - my_logger.logger - [34mDEBUG[0m - Time: 5.297693967819214
+2025-02-07 20:48:33,428 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:36,310 - my_logger.logger - [34mDEBUG[0m - Time: 2.881591796875
+2025-02-07 20:48:36,311 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:37,605 - my_logger.logger - [34mDEBUG[0m - Time: 1.294572114944458
+2025-02-07 20:48:37,607 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:44,112 - my_logger.logger - [34mDEBUG[0m - Time: 6.504448890686035
+2025-02-07 20:48:44,428 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:47,479 - my_logger.logger - [34mDEBUG[0m - Time: 3.050764560699463
+2025-02-07 20:48:47,480 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:49,490 - my_logger.logger - [34mDEBUG[0m - Time: 2.0092203617095947
+2025-02-07 20:48:49,492 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:48:55,001 - my_logger.logger - [34mDEBUG[0m - Time: 5.50945258140564
+2025-02-07 20:48:55,275 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:00,821 - my_logger.logger - [34mDEBUG[0m - Time: 5.5457916259765625
+2025-02-07 20:49:00,822 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:02,425 - my_logger.logger - [34mDEBUG[0m - Time: 1.6024489402770996
+2025-02-07 20:49:02,426 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:03,786 - my_logger.logger - [34mDEBUG[0m - Time: 1.3604273796081543
+2025-02-07 20:49:03,788 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:05,126 - my_logger.logger - [34mDEBUG[0m - Time: 1.3375885486602783
+2025-02-07 20:49:05,128 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:16,536 - my_logger.logger - [34mDEBUG[0m - Time: 11.407835721969604
+2025-02-07 20:49:16,817 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:19,379 - my_logger.logger - [34mDEBUG[0m - Time: 2.562500476837158
+2025-02-07 20:49:19,380 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:20,594 - my_logger.logger - [34mDEBUG[0m - Time: 1.2133619785308838
+2025-02-07 20:49:20,596 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:27,496 - my_logger.logger - [34mDEBUG[0m - Time: 6.900477647781372
+2025-02-07 20:49:27,762 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:33,241 - my_logger.logger - [34mDEBUG[0m - Time: 5.478421688079834
+2025-02-07 20:49:33,242 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:35,412 - my_logger.logger - [34mDEBUG[0m - Time: 2.1701457500457764
+2025-02-07 20:49:35,414 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:38,083 - my_logger.logger - [34mDEBUG[0m - Time: 2.668977975845337
+2025-02-07 20:49:38,086 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:40,291 - my_logger.logger - [34mDEBUG[0m - Time: 2.2051751613616943
+2025-02-07 20:49:40,293 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:54,417 - my_logger.logger - [34mDEBUG[0m - Time: 14.123455286026001
+2025-02-07 20:49:54,717 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:55,992 - my_logger.logger - [34mDEBUG[0m - Time: 1.275554895401001
+2025-02-07 20:49:55,993 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:56,976 - my_logger.logger - [34mDEBUG[0m - Time: 0.9825930595397949
+2025-02-07 20:49:56,979 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:49:57,925 - my_logger.logger - [34mDEBUG[0m - Time: 0.945443868637085
+2025-02-07 20:49:57,926 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:00,117 - my_logger.logger - [34mDEBUG[0m - Time: 2.190821647644043
+2025-02-07 20:50:00,118 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:02,697 - my_logger.logger - [34mDEBUG[0m - Time: 2.5793159008026123
+2025-02-07 20:50:02,698 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:03,698 - my_logger.logger - [34mDEBUG[0m - Time: 0.9998269081115723
+2025-02-07 20:50:03,700 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:04,766 - my_logger.logger - [34mDEBUG[0m - Time: 1.0657148361206055
+2025-02-07 20:50:04,768 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:09,474 - my_logger.logger - [34mDEBUG[0m - Time: 4.705957651138306
+2025-02-07 20:50:09,475 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:11,556 - my_logger.logger - [34mDEBUG[0m - Time: 2.0816421508789062
+2025-02-07 20:50:11,558 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:14,347 - my_logger.logger - [34mDEBUG[0m - Time: 2.7889482975006104
+2025-02-07 20:50:14,349 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:15,320 - my_logger.logger - [34mDEBUG[0m - Time: 0.9703290462493896
+2025-02-07 20:50:15,322 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:16,185 - my_logger.logger - [34mDEBUG[0m - Time: 0.8628506660461426
+2025-02-07 20:50:16,186 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:18,542 - my_logger.logger - [34mDEBUG[0m - Time: 2.35579252243042
+2025-02-07 20:50:18,544 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:20,699 - my_logger.logger - [34mDEBUG[0m - Time: 2.1546435356140137
+2025-02-07 20:50:20,850 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:24,792 - my_logger.logger - [34mDEBUG[0m - Time: 3.941368818283081
+2025-02-07 20:50:24,794 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:31,207 - my_logger.logger - [34mDEBUG[0m - Time: 6.413675308227539
+2025-02-07 20:50:31,208 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:33,883 - my_logger.logger - [34mDEBUG[0m - Time: 2.6745009422302246
+2025-02-07 20:50:33,885 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:35,148 - my_logger.logger - [34mDEBUG[0m - Time: 1.2630407810211182
+2025-02-07 20:50:35,150 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:38,013 - my_logger.logger - [34mDEBUG[0m - Time: 2.863129138946533
+2025-02-07 20:50:38,015 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:42,629 - my_logger.logger - [34mDEBUG[0m - Time: 4.613912105560303
+2025-02-07 20:50:42,840 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:43,799 - my_logger.logger - [34mDEBUG[0m - Time: 0.9592440128326416
+2025-02-07 20:50:43,800 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:50,924 - my_logger.logger - [34mDEBUG[0m - Time: 7.124290466308594
+2025-02-07 20:50:51,112 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:50:52,614 - my_logger.logger - [34mDEBUG[0m - Time: 1.5024299621582031
+2025-02-07 20:50:52,615 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:51:01,164 - my_logger.logger - [34mDEBUG[0m - Time: 8.548672437667847
+2025-02-07 20:51:01,481 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:51:03,296 - my_logger.logger - [34mDEBUG[0m - Time: 1.8146178722381592
+2025-02-07 20:51:03,298 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:51:04,526 - my_logger.logger - [34mDEBUG[0m - Time: 1.2278006076812744
+2025-02-07 20:51:04,527 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:51:08,038 - my_logger.logger - [34mDEBUG[0m - Time: 3.5107932090759277
+2025-02-07 20:51:08,040 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:51:22,854 - my_logger.logger - [34mDEBUG[0m - Time: 14.813925981521606
+2025-02-07 20:51:23,220 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:51:24,412 - my_logger.logger - [34mDEBUG[0m - Time: 1.1914515495300293
+2025-02-07 20:51:24,414 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:51:26,405 - my_logger.logger - [34mDEBUG[0m - Time: 1.9907124042510986
+2025-02-07 20:51:26,406 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:51:33,522 - my_logger.logger - [34mDEBUG[0m - Time: 7.116360902786255
+2025-02-07 20:51:33,523 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:51:46,991 - my_logger.logger - [34mDEBUG[0m - Time: 13.467368841171265
+2025-02-07 20:52:42,511 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:52:46,472 - my_logger.logger - [34mDEBUG[0m - Time: 3.961641311645508
+2025-02-07 20:52:46,473 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:52:48,304 - my_logger.logger - [34mDEBUG[0m - Time: 1.8305590152740479
+2025-02-07 20:52:48,305 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:52:50,076 - my_logger.logger - [34mDEBUG[0m - Time: 1.7704854011535645
+2025-02-07 20:52:50,077 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:52:52,408 - my_logger.logger - [34mDEBUG[0m - Time: 2.331523895263672
+2025-02-07 20:52:52,409 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:52:56,013 - my_logger.logger - [34mDEBUG[0m - Time: 3.6040103435516357
+2025-02-07 20:52:56,014 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:00,400 - my_logger.logger - [34mDEBUG[0m - Time: 4.385802268981934
+2025-02-07 20:53:00,401 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:01,512 - my_logger.logger - [34mDEBUG[0m - Time: 1.1107308864593506
+2025-02-07 20:53:01,513 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:03,254 - my_logger.logger - [34mDEBUG[0m - Time: 1.7412464618682861
+2025-02-07 20:53:03,255 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:04,650 - my_logger.logger - [34mDEBUG[0m - Time: 1.3941998481750488
+2025-02-07 20:53:04,652 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:07,875 - my_logger.logger - [34mDEBUG[0m - Time: 3.223684310913086
+2025-02-07 20:53:07,876 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:15,845 - my_logger.logger - [34mDEBUG[0m - Time: 7.968523263931274
+2025-02-07 20:53:15,846 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:17,099 - my_logger.logger - [34mDEBUG[0m - Time: 1.2530767917633057
+2025-02-07 20:53:17,100 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:20,219 - my_logger.logger - [34mDEBUG[0m - Time: 3.1189496517181396
+2025-02-07 20:53:20,220 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:26,900 - my_logger.logger - [34mDEBUG[0m - Time: 6.679598331451416
+2025-02-07 20:53:26,901 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:29,790 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 20:53:33,176 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-07 20:53:52,754 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 20:53:56,648 - my_logger.logger - [34mDEBUG[0m - Time: 3.8937671184539795
+2025-02-07 20:59:11,730 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 20:59:12,557 - my_logger.logger - [34mDEBUG[0m - Time: 0.8264772891998291
+2025-02-07 20:59:21,045 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:59:24,514 - my_logger.logger - [34mDEBUG[0m - Time: 3.46852970123291
+2025-02-07 20:59:44,806 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 20:59:49,152 - my_logger.logger - [34mDEBUG[0m - Time: 4.346433401107788
+2025-02-07 21:02:33,558 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:02:40,498 - my_logger.logger - [34mDEBUG[0m - Time: 6.939404726028442
+2025-02-07 21:02:56,701 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:03:06,089 - my_logger.logger - [34mDEBUG[0m - Time: 9.387959480285645
+2025-02-07 21:03:46,131 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:03:53,125 - my_logger.logger - [34mDEBUG[0m - Time: 6.992793321609497
+2025-02-07 21:17:20,656 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:17:22,807 - my_logger.logger - [34mDEBUG[0m - Time: 2.150880813598633
+2025-02-07 21:19:50,674 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:19:55,450 - my_logger.logger - [34mDEBUG[0m - Time: 4.775416851043701
+2025-02-07 21:22:00,415 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:22:01,807 - my_logger.logger - [34mDEBUG[0m - Time: 1.3914251327514648
+2025-02-07 21:22:43,423 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:25:48,841 - my_logger.logger - [34mINFO[0m - User with ID: 1494739556 using fox_handler.
+2025-02-07 21:25:50,045 - my_logger.logger - [34mDEBUG[0m - Time: 1.2033891677856445
+2025-02-07 21:25:55,531 - my_logger.logger - [34mINFO[0m - User with ID: 1494739556 using fox_handler.
+2025-02-07 21:25:56,653 - my_logger.logger - [34mDEBUG[0m - Time: 1.1216166019439697
+2025-02-07 21:26:02,087 - my_logger.logger - [34mINFO[0m - User with ID: 1494739556 using fox_handler.
+2025-02-07 21:26:06,422 - my_logger.logger - [34mDEBUG[0m - Time: 4.335176706314087
+2025-02-07 21:26:24,611 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:26:26,311 - my_logger.logger - [34mDEBUG[0m - Time: 1.700773000717163
+2025-02-07 21:26:41,199 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:26:43,491 - my_logger.logger - [34mDEBUG[0m - Time: 2.2922017574310303
+2025-02-07 21:33:11,204 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:33:12,354 - my_logger.logger - [34mDEBUG[0m - Time: 1.1503467559814453
+2025-02-07 21:39:25,423 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 21:39:27,954 - my_logger.logger - [34mDEBUG[0m - Time: 2.530517816543579
+2025-02-07 22:12:45,301 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:12:48,134 - my_logger.logger - [34mDEBUG[0m - Time: 2.832587718963623
+2025-02-07 22:13:04,160 - my_logger.logger - [34mINFO[0m - User with ID: 7865358104 using fox_handler.
+2025-02-07 22:13:05,176 - my_logger.logger - [34mDEBUG[0m - Time: 1.015610933303833
+2025-02-07 22:13:37,824 - my_logger.logger - [34mINFO[0m - User with ID: 7865358104 using fox_handler.
+2025-02-07 22:13:43,955 - my_logger.logger - [34mDEBUG[0m - Time: 6.131234407424927
+2025-02-07 22:15:55,253 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:15:57,841 - my_logger.logger - [34mDEBUG[0m - Time: 2.587066173553467
+2025-02-07 22:16:05,906 - my_logger.logger - [34mINFO[0m - User with ID: 5749497671 using fox_handler.
+2025-02-07 22:16:16,334 - my_logger.logger - [34mDEBUG[0m - Time: 10.42773985862732
+2025-02-07 22:16:50,827 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:16:52,618 - my_logger.logger - [34mDEBUG[0m - Time: 1.7904722690582275
+2025-02-07 22:30:44,076 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:30:46,477 - my_logger.logger - [34mDEBUG[0m - Time: 2.4009978771209717
+2025-02-07 22:30:47,781 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 22:30:51,043 - my_logger.logger - [34mDEBUG[0m - Time: 3.261185646057129
+2025-02-07 22:31:10,615 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:31:13,037 - my_logger.logger - [34mDEBUG[0m - Time: 2.4222891330718994
+2025-02-07 22:31:58,846 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:32:00,013 - my_logger.logger - [34mDEBUG[0m - Time: 1.1665067672729492
+2025-02-07 22:32:37,454 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:32:39,720 - my_logger.logger - [34mDEBUG[0m - Time: 2.26587176322937
+2025-02-07 22:32:43,599 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 22:32:44,946 - my_logger.logger - [34mDEBUG[0m - Time: 1.3471922874450684
+2025-02-07 22:33:41,554 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:33:45,953 - my_logger.logger - [34mDEBUG[0m - Time: 4.398216962814331
+2025-02-07 22:33:46,356 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 22:33:47,371 - my_logger.logger - [34mDEBUG[0m - Time: 1.015608787536621
+2025-02-07 22:33:59,721 - my_logger.logger - [34mINFO[0m - User with ID: 6484002352 using fox_handler.
+2025-02-07 22:34:01,464 - my_logger.logger - [34mDEBUG[0m - Time: 1.7425580024719238
+2025-02-07 22:34:18,318 - my_logger.logger - [34mINFO[0m - User with ID: 954492388 using fox_handler.
+2025-02-07 22:34:19,302 - my_logger.logger - [34mDEBUG[0m - Time: 0.9833154678344727
+2025-02-07 22:34:29,396 - my_logger.logger - [34mINFO[0m - User with ID: 954492388 using fox_handler.
+2025-02-07 22:34:34,344 - my_logger.logger - [34mDEBUG[0m - Time: 4.946933746337891
+2025-02-07 22:34:38,899 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:34:48,462 - my_logger.logger - [34mDEBUG[0m - Time: 9.563621759414673
+2025-02-07 22:35:05,116 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:35:06,472 - my_logger.logger - [34mDEBUG[0m - Time: 1.354832410812378
+2025-02-07 22:35:11,974 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:35:18,261 - my_logger.logger - [34mDEBUG[0m - Time: 6.286467552185059
+2025-02-07 22:35:20,474 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:35:21,640 - my_logger.logger - [34mDEBUG[0m - Time: 1.1658146381378174
+2025-02-07 22:35:51,909 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 22:35:54,007 - my_logger.logger - [34mDEBUG[0m - Time: 2.097482442855835
+2025-02-07 22:36:10,775 - my_logger.logger - [34mINFO[0m - User with ID: 7978850119 using fox_handler.
+2025-02-07 22:36:23,586 - my_logger.logger - [34mDEBUG[0m - Time: 12.810748100280762
+2025-02-07 22:36:24,707 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:36:25,829 - my_logger.logger - [34mDEBUG[0m - Time: 1.121572732925415
+2025-02-07 22:36:37,582 - my_logger.logger - [34mINFO[0m - User with ID: 7978850119 using fox_handler.
+2025-02-07 22:36:39,701 - my_logger.logger - [34mDEBUG[0m - Time: 2.1190836429595947
+2025-02-07 22:36:43,112 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:36:46,264 - my_logger.logger - [34mDEBUG[0m - Time: 3.1519558429718018
+2025-02-07 22:36:46,303 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:36:48,061 - my_logger.logger - [34mDEBUG[0m - Time: 1.757655382156372
+2025-02-07 22:37:08,524 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:37:11,530 - my_logger.logger - [34mDEBUG[0m - Time: 3.0057942867279053
+2025-02-07 22:37:11,532 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:37:14,830 - my_logger.logger - [34mDEBUG[0m - Time: 3.2984132766723633
+2025-02-07 22:37:38,155 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:37:39,493 - my_logger.logger - [34mDEBUG[0m - Time: 1.3378632068634033
+2025-02-07 22:37:43,836 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:37:47,949 - my_logger.logger - [34mDEBUG[0m - Time: 4.112511157989502
+2025-02-07 22:37:55,613 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:38:00,273 - my_logger.logger - [34mDEBUG[0m - Time: 4.659565448760986
+2025-02-07 22:38:00,301 - my_logger.logger - [34mINFO[0m - User with ID: 1765550701 using fox_handler.
+2025-02-07 22:38:02,282 - my_logger.logger - [34mDEBUG[0m - Time: 1.9812912940979004
+2025-02-07 22:38:05,956 - my_logger.logger - [34mINFO[0m - User with ID: 6484002352 using fox_handler.
+2025-02-07 22:38:06,897 - my_logger.logger - [34mDEBUG[0m - Time: 0.941281795501709
+2025-02-07 22:38:13,941 - my_logger.logger - [34mINFO[0m - User with ID: 6484002352 using fox_handler.
+2025-02-07 22:38:14,960 - my_logger.logger - [34mDEBUG[0m - Time: 1.0191118717193604
+2025-02-07 22:38:18,856 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:38:21,429 - my_logger.logger - [34mDEBUG[0m - Time: 2.5724849700927734
+2025-02-07 22:38:25,719 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:38:27,030 - my_logger.logger - [34mDEBUG[0m - Time: 1.3107385635375977
+2025-02-07 22:38:27,304 - my_logger.logger - [34mINFO[0m - User with ID: 6110090400 using fox_handler.
+2025-02-07 22:38:28,430 - my_logger.logger - [34mDEBUG[0m - Time: 1.1265099048614502
+2025-02-07 22:38:37,316 - my_logger.logger - [34mINFO[0m - User with ID: 6484002352 using fox_handler.
+2025-02-07 22:38:48,391 - my_logger.logger - [34mDEBUG[0m - Time: 11.074812173843384
+2025-02-07 22:41:53,386 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-07 22:41:58,143 - my_logger.logger - [34mDEBUG[0m - Time: 4.756320953369141
+2025-02-07 22:42:03,114 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:42:05,174 - my_logger.logger - [34mDEBUG[0m - Time: 2.060318946838379
+2025-02-07 22:42:11,174 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:42:15,959 - my_logger.logger - [34mDEBUG[0m - Time: 4.7843101024627686
+2025-02-07 22:42:16,224 - my_logger.logger - [34mINFO[0m - User with ID: 6484002352 using fox_handler.
+2025-02-07 22:42:17,554 - my_logger.logger - [34mDEBUG[0m - Time: 1.3296611309051514
+2025-02-07 22:42:30,047 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:42:30,977 - my_logger.logger - [34mDEBUG[0m - Time: 0.9302806854248047
+2025-02-07 22:42:35,781 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:42:37,967 - my_logger.logger - [34mDEBUG[0m - Time: 2.186196804046631
+2025-02-07 22:43:05,886 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:43:11,605 - my_logger.logger - [34mDEBUG[0m - Time: 5.718704700469971
+2025-02-07 22:43:12,616 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:43:14,249 - my_logger.logger - [34mDEBUG[0m - Time: 1.6327567100524902
+2025-02-07 22:43:19,504 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 22:43:21,655 - my_logger.logger - [34mDEBUG[0m - Time: 2.150461435317993
+2025-02-07 22:47:20,458 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 22:47:21,573 - my_logger.logger - [34mDEBUG[0m - Time: 1.1151573657989502
+2025-02-07 22:47:39,298 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 22:47:41,745 - my_logger.logger - [34mDEBUG[0m - Time: 2.446845054626465
+2025-02-07 22:47:42,042 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:47:47,113 - my_logger.logger - [34mDEBUG[0m - Time: 5.070129156112671
+2025-02-07 22:47:47,144 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 22:47:48,138 - my_logger.logger - [34mDEBUG[0m - Time: 0.9935071468353271
+2025-02-07 22:47:51,583 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:48:02,813 - my_logger.logger - [34mDEBUG[0m - Time: 11.230127096176147
+2025-02-07 22:48:03,773 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:48:05,661 - my_logger.logger - [34mDEBUG[0m - Time: 1.8879027366638184
+2025-02-07 22:48:05,663 - my_logger.logger - [34mINFO[0m - User with ID: 6077928237 using fox_handler.
+2025-02-07 22:48:06,707 - my_logger.logger - [34mDEBUG[0m - Time: 1.0438110828399658
+2025-02-07 22:48:26,780 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:48:29,356 - my_logger.logger - [34mDEBUG[0m - Time: 2.575439929962158
+2025-02-07 22:48:37,769 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:48:40,813 - my_logger.logger - [34mDEBUG[0m - Time: 3.043849468231201
+2025-02-07 22:48:44,217 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:48:45,544 - my_logger.logger - [34mDEBUG[0m - Time: 1.326967716217041
+2025-02-07 22:49:01,936 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:49:05,873 - my_logger.logger - [34mDEBUG[0m - Time: 3.9370691776275635
+2025-02-07 22:49:09,411 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:49:10,510 - my_logger.logger - [34mDEBUG[0m - Time: 1.0994153022766113
+2025-02-07 22:49:17,602 - my_logger.logger - [34mINFO[0m - User with ID: 1349243108 using fox_handler.
+2025-02-07 22:49:20,249 - my_logger.logger - [34mDEBUG[0m - Time: 2.6472055912017822
+2025-02-07 22:52:02,875 - my_logger.logger - [34mINFO[0m - User with ID: 6484002352 using fox_handler.
+2025-02-07 22:52:05,045 - my_logger.logger - [34mDEBUG[0m - Time: 2.1695477962493896
+2025-02-08 10:28:21,640 - my_logger.logger - [34mINFO[0m - > Start UserBot
+2025-02-08 10:29:16,278 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-08 10:29:21,399 - my_logger.logger - [34mDEBUG[0m - Time: 5.1201043128967285
+2025-02-08 10:29:29,351 - my_logger.logger - [34mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-08 10:29:31,808 - my_logger.logger - [34mDEBUG[0m - Time: 2.457360029220581
+2025-02-08 10:29:47,207 - my_logger.logger - [34mINFO[0m - > Stop UserBot

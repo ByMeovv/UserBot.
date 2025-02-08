@@ -15,6 +15,7 @@ def download_image(url: str, output_file: str):
 
     # Создаем объект BytesIO
     img_byte_arr = BytesIO()
+    img_byte_arr.seek(0)
 
     # Сохраняем изображение в объект BytesIO
     img.save(img_byte_arr, format='JPEG')

@@ -6,21 +6,25 @@ from my_logger.logger import log
 
 class Tagger:
     def __init__(self, client):
+        """
+        Initialize Tagger with the given client.
+
+        Args:
+            client: The TelegramClient instance to use for sending messages.
+        """
         self.client = client
 
     def tagger_handler(self):
         @self.client.on(events.NewMessage(pattern=r'^\/call_staff'))
         async def call_staff_handler(msg):
-            """
             staff_usernames: list = [
                 "rabiddumpling", "ByMeovv0", "BotCott", "Xoqnan", "SevenQre",
                 "Anton_Komisarov", "GoldenAuX", "ixh338", "N9mkOik", "Azzerl",
                 "RentoGarsia1788", "pelmen953", "tweeeheeee", "oviling", "dfb9ef",
                 "ytopia111", "byfox0"
             ]
-            """
-            staff_usernames: list = [
-                "godsatty",
+            staff_usernames = [
+                "nonesMeow",
             ]
             for username in staff_usernames:
                 chat_id = await self.client.get_peer_id(username)

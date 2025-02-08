@@ -5,9 +5,23 @@ from my_logger.logger import log
 
 class ID:
     def __init__(self, client):
+        """
+        Initialize the ID handler with the client.
+
+        :param client: The Telegram client
+        :type client: :class:`telethon.TelegramClient`
+        """
         self.client = client
 
     def id_handler(self):
+        """
+        Sets up a message handler to respond to the '/id' command. If the
+        command is sent in a channel without a reply, it returns the channel's
+        chat ID. If sent in a private chat without a reply, it returns the
+        sender's ID. If the command is a reply to another message, it returns
+        the ID of the user who sent the original message. Logs the ID of the
+        user or channel each time the command is used.
+        """
         @self.client.on(events.NewMessage(pattern=r'^\/id'))
         async def id_handler(msg):
             reply = await msg.get_reply_message()
