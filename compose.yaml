@@ -1,0 +1,18 @@
+services:
+
+  bot:
+    build: .
+    container_name: userbot
+    restart: always
+    volumes:
+      - .:/code
+      - ./data/data.yaml:/code/data/data.yaml
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - API_ID=$$\{bot.api_id\}
+      - API_HASH=$$\{bot.api_hash\}
+      - PHONE=$$\{bot.token\}
+    network_mode: host
+
+stdin: true
+tty: true

@@ -4,7 +4,7 @@ import asyncio
 
 from my_logger.logger import log
 from utils.parser import download_image
-
+from data.cfg import  Config
 
 class FoxHandler:
     def __init__(self, client, url: str='https://api.tinyfox.dev/img?animal=fox', output_file: str = 'image.jpg'):
@@ -37,8 +37,13 @@ class FoxHandler:
             time_now = int(time.time())
 
             log.info(f"User with ID: {msg.sender_id} using fox_handler.")
+            log.debug("Deleting message...")
 
-            if time_now - self.last_used < 60:
+            await msg.delete()
+
+            log.debug("Downloading image...")
+
+            if time_now - self.last_used < 60 and not msg.sender_id != [_id for _id in Config.get_value('bot')['owners']]:
                 await msg.reply('This command can be used only once per minute.')
 
                 log.error("User with ID: {} tried to use fox_handler too often.".format(msg.sender_id))
@@ -56,7 +61,7 @@ class FoxHandler:
 
             await asyncio.sleep(300)
             try:
-                log.debug("Deleting message...")
+                log.debug("Deleting image message...")
 
                 await self.client.delete_messages(msg.chat_id, [msg_id])
             except Exception as e:

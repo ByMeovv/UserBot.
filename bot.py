@@ -1,5 +1,6 @@
 from telethon import TelegramClient
 from my_logger.logger import log
+from data.cfg import Config
 
 
 class TelethonBot:
@@ -18,10 +19,10 @@ class TelethonBot:
 
         Initialize the Telegram client with the provided credentials.
         """
-        self.SESSION = 'UserBot'
-        self.API_ID = 22923390
-        self.API_HASH = '6cf21acc9cee0411b09e883a6378c7a3'
-        self.PHONE = '+79800137523'
+        self.SESSION = Config.get_value('bot')['env']['session']
+        self.API_ID = Config.get_value('bot')['env']['api_id']
+        self.API_HASH = Config.get_value('bot')['env']['api_hash']
+        self.PHONE = Config.get_value('bot')['env']['phone']
         self.client = TelegramClient(self.SESSION, self.API_ID, self.API_HASH)
 
     def start(self):

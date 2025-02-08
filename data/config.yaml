@@ -1,0 +1,15 @@
+bot:
+  container_name: userbot
+  owners:
+    - 214805598
+    - 6820351323
+    - 698170941
+  env:
+    session:
+      UserBot
+    phone:
+      +79800137523
+    api_id:
+      22923390
+    api_hash:
+      6cf21acc9cee0411b09e883a6378c7a3
