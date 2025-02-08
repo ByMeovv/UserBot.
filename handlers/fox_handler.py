@@ -48,7 +48,7 @@ class FoxHandler:
             download_image(self.url, self.output_file)
             sent_message = await msg.reply(file='image.jpg')
 
-            log.debug("Sending image with caption '{caption}'.")
+            log.debug("Sending image with caption '{image.jpg}'.")
 
             msg_id = sent_message.id
 
@@ -56,6 +56,8 @@ class FoxHandler:
 
             await asyncio.sleep(300)
             try:
+                log.debug("Deleting message...")
+
                 await self.client.delete_messages(msg.chat_id, [msg_id])
             except Exception as e:
                 log.warning(f"Failed to delete message: {e}")

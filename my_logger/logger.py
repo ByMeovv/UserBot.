@@ -6,7 +6,9 @@ import os
 class CustomFormatter(logging.Formatter):
     def format(self, record):
         level = record.levelname.lower()
-        if level in ['info', 'debug']:
+        if level == 'info':
+            color = '\x1b[32m'  # Green
+        elif level == 'debug':
             color = '\x1b[34m'  # Blue
         elif level == 'warning':
             color = '\x1b[33m'  # Yellow
