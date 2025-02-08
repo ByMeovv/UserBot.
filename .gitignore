@@ -11,4 +11,4 @@ __pycache__/
 *.jpg
 
 # Игнорировать файл config.yaml
-config.yaml
+data/config.yaml
