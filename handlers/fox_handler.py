@@ -32,6 +32,8 @@ class FoxHandler:
         the image as a reply to the message. Logs the ID of the user who sent the
         message. Deleted message after 300 seconds.
         """
+        self.last_used = {}
+
         @self.client.on(events.NewMessage(pattern=r'^\/send_fox'))
         async def send_fox(msg):
             time_now = int(time.time())
@@ -43,13 +45,19 @@ class FoxHandler:
 
             log.debug("Downloading image...")
 
-            if time_now - self.last_used < 60 and not msg.sender_id != [_id for _id in Config.get_value('bot')['owners']]:
-                await msg.reply('This command can be used only once per minute.')
+            if msg.sender_id in self.last_used:
+                last_used = self.last_used[msg.sender_id]
+            else:
+                last_used = 0
+
+            if time_now - last_used < 60 and msg.sender_id not in Config.get_value('bot')['owners']:
+                time_left = 60 - (time_now - last_used)
+                await msg.reply(f'You can use this command only once per minute. You have {time_left} seconds left.')
 
                 log.error("User with ID: {} tried to use fox_handler too often.".format(msg.sender_id))
 
                 return
-            self.last_used = time_now
+            self.last_used[msg.sender_id] = time_now
             download_image(self.url, self.output_file)
             sent_message = await msg.reply(file='image.jpg')
 

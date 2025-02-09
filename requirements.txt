@@ -1,5 +1,5 @@
 #  Telethon
-telethon == 1.38.1
+telethon >= 1.37.0
 #  Pillow
 pillow >= 11.1.0
 #  Requests

@@ -13,6 +13,5 @@ services:
       - API_HASH=$$\{bot.api_hash\}
       - PHONE=$$\{bot.token\}
     network_mode: host
-
-stdin: true
-tty: true
+    stdin_open: true
+    tty: true
