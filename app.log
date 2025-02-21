@@ -1546,3 +1546,57 @@
 2025-02-09 12:18:26,498 - my_logger.logger - [34mDEBUG[0m - Deleting message...
 2025-02-09 12:18:26,743 - my_logger.logger - [32mINFO[0m - User ID: 6820351323 using id_handler
 2025-02-09 12:18:32,895 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-09 13:32:31,049 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-09 13:32:53,472 - my_logger.logger - [34mDEBUG[0m - Deleting message...
+2025-02-09 13:32:53,719 - my_logger.logger - [32mINFO[0m - User ID: 6820351323 using id_handler
+2025-02-09 13:32:58,022 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:05:24,180 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:06:25,237 - my_logger.logger - [32mINFO[0m - User with ID: 6820351323 using fox_handler.
+2025-02-17 21:06:25,238 - my_logger.logger - [34mDEBUG[0m - Deleting message...
+2025-02-17 21:06:25,339 - my_logger.logger - [34mDEBUG[0m - Downloading image...
+2025-02-17 21:06:27,186 - my_logger.logger - [34mDEBUG[0m - Time: 1.8466660976409912
+2025-02-17 21:06:27,838 - my_logger.logger - [34mDEBUG[0m - Sending image with caption '{image.jpg}'.
+2025-02-17 21:06:27,839 - my_logger.logger - [34mDEBUG[0m - Waiting 300 seconds...
+2025-02-17 21:06:53,812 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:08:47,435 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:08:57,256 - my_logger.logger - [34mDEBUG[0m - Deleting message...
+2025-02-17 21:08:57,256 - my_logger.logger - [34mDEBUG[0m - Deleting message...
+2025-02-17 21:08:57,723 - my_logger.logger - [32mINFO[0m - User ID: 6820351323 using id_handler
+2025-02-17 21:08:57,724 - my_logger.logger - [32mINFO[0m - User ID: 6820351323 using id_handler
+2025-02-17 21:11:08,241 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:24:33,001 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:30:44,730 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:31:03,232 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:33:02,303 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:33:04,449 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:35:58,723 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:38:33,133 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:41:32,387 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:41:34,202 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:42:28,335 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:42:30,205 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:43:29,903 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:43:31,768 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:43:49,031 - my_logger.logger - [34mDEBUG[0m - Deleting message...
+2025-02-17 21:43:49,267 - my_logger.logger - [32mINFO[0m - User ID: 6820351323 using id_handler
+2025-02-17 21:45:16,376 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:45:18,272 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:46:19,848 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:46:21,235 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:47:56,668 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:48:46,301 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:49:37,607 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:49:39,370 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:50:16,414 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:50:17,779 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:50:46,628 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:50:48,921 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:51:59,689 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:52:01,265 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:52:18,293 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:52:19,793 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:52:56,198 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:52:58,125 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 21:53:14,347 - my_logger.logger - [32mINFO[0m - > Stop UserBot
+2025-02-17 21:53:16,456 - my_logger.logger - [32mINFO[0m - > Start UserBot
+2025-02-17 22:07:17,230 - my_logger.logger - [32mINFO[0m - > Stop UserBot

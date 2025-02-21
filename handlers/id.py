@@ -1,6 +1,7 @@
 from telethon import events
 
 from my_logger.logger import log
+from utils.get_topic import get_topic_id
 
 
 class ID:
@@ -44,3 +45,8 @@ class ID:
             else:
                 log.error("Error in id_handler")
                 return await msg.reply("Error")
+
+        @self.client.on(events.NewMessage(pattern=r'^\/topic_id'))
+        async def topic_id(msg):
+            message_id = msg.id
+            await get_topic_id(self.client, msg, message_id)

@@ -34,7 +34,7 @@ class FoxHandler:
         """
         self.last_used = {}
 
-        @self.client.on(events.NewMessage(pattern=r'^\/send_fox'))
+        @self.client.on(events.NewMessage(pattern=r'^\/(?i:send_fox)'))
         async def send_fox(msg):
             time_now = int(time.time())
 
@@ -50,9 +50,11 @@ class FoxHandler:
             else:
                 last_used = 0
 
-            if time_now - last_used < 60 and msg.sender_id not in Config.get_value('bot')['owners']:
-                time_left = 60 - (time_now - last_used)
-                await msg.reply(f'You can use this command only once per minute. You have {time_left} seconds left.')
+            if time_now - last_used < 30 and msg.sender_id not in Config.get_value('bot')['owners']:
+                time_left = 30 - (time_now - last_used)
+                sent_warning = await msg.reply(f'You can use this command only once per minute. You have {time_left} seconds left.')
+                await asyncio.sleep(5)
+                await self.client.delete_messages(msg.chat_id, [sent_warning.id])
 
                 log.error("User with ID: {} tried to use fox_handler too often.".format(msg.sender_id))
 
